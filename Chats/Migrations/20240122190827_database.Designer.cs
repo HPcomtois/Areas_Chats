@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Chats.Migrations
 {
     [DbContext(typeof(ChatsContext))]
-    [Migration("20240122181840_Database")]
-    partial class Database
+    [Migration("20240122190827_database")]
+    partial class database
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

@@ -251,3 +251,8 @@ C:\Users\2278486\Desktop\Areas_Chats\Chats\obj\Debug\net7.0\refint\Chats.dll
 C:\Users\2278486\Desktop\Areas_Chats\Chats\obj\Debug\net7.0\Chats.pdb
 C:\Users\2278486\Desktop\Areas_Chats\Chats\obj\Debug\net7.0\Chats.genruntimeconfig.cache
 C:\Users\2278486\Desktop\Areas_Chats\Chats\obj\Debug\net7.0\ref\Chats.dll
+C:\Users\2278486\Desktop\Areas_Chats\Chats\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\2278486\Desktop\Areas_Chats\Chats\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2278486\Desktop\Areas_Chats\Chats\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2278486\Desktop\Areas_Chats\Chats\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2278486\Desktop\Areas_Chats\Chats\obj\Debug\net7.0\Chats.MvcApplicationPartsAssemblyInfo.cs
